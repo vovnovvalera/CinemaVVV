@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CinemaVVV</string>
+    <string name="no_eth">Не удалось подключиться к серверу</string>
+</resources>
